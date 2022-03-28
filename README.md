@@ -1,5 +1,9 @@
 # KiCAD Keyboard Templates
 
+## Notes
+
+As of 28 Mar 2022, this has been converted to use with KiCAD 6. Tested with KiCAD 6.0.4.
+
 ## Usage
 
 1. Clone the repository somewhere (`git clone https://github.com/ramonimbao/kb-templates`)
